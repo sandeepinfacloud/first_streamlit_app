@@ -10,4 +10,4 @@ streamlit.text('Poori,Chutney,sambar')
 
 streamlit.text('Dosa,Chutney,sambar')
 
-streamit.text('idly')
+streamlit.text('idly')
