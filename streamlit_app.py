@@ -2,6 +2,10 @@ import streamlit
 
 streamlit.title('My parent new healthy dinner')
 
-streamlit.title('Breakfast menu')
+streamlit.header('Breakfast menu')
 
-streamlit.markdown('idly,wada,sambar')
+streamlit.text('idly,wada,sambar')
+
+streamlit.text('Poori,Chutney,sambar')
+
+streamlit.text('Dosa,Chutney,sambar')
