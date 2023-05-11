@@ -1,13 +1,14 @@
 import streamlit
 
-streamlit.title('My parent new healthy dinner')
 
-streamlit.header('Breakfast menu')
+streamlit.title('Breakfast favourites 🥣 🥗 🐔 🥑🍞')
 
-streamlit.text('idly,wada,sambar')
+streamlit.header('Breakfast menu 🥣 🥗 ')
 
-streamlit.text('Poori,Chutney,sambar')
+streamlit.text('🐔 idly,wada,sambar')
 
-streamlit.text('Dosa,Chutney,sambar')
+streamlit.text('🥑🍞Poori,Chutney,sambar')
 
-streamlit.text('idly')
+streamlit.text('🥑Dosa,Chutney,sambar')
+
+streamlit.text('🍞idly')
