@@ -12,3 +12,5 @@ streamlit.text('🥑🍞Poori,Chutney,sambar')
 streamlit.text('🥑Dosa,Chutney,sambar')
 
 streamlit.text('🍞idly')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
